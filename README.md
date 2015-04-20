@@ -9,4 +9,9 @@ Then you can import the project to flash builder and run it on air simulator or 
 
 Cheers.
 
+Seetings:
+Flex version: 4.13.0
+Air version: 14
+Flash version: Flash player 14
+
 ## License MIT
